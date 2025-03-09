@@ -1,12 +1,22 @@
-# React + Vite
+# `# Task Tracker Assignment`
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### **Task Tracker**
+- Deployed App Link - [Click Here](https://nxtwavetasktracker.netlify.app)
+- Git Respository Link - [Click Here](https://github.com/nxtwavetasktracker)
 
-Currently, two official plugins are available:
+### **Description**
+- Created a Task Tracker frontend application on part of Nxtwave Assignment Project used all concepts that I learned in Nxtwave programme and applied in the project with my best of skills
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### **Technologies Used**
+- Vite + React, Lucide-React, Local Storage
 
-## Expanding the ESLint configuration
+### Set Up Instructions
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<details>
+<summary>Click to view</summary>
+
+- Download dependencies by running `npm install`
+- Start up the app using `npm run dev`
+</details>
+
+Thank you!
