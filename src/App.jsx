@@ -76,7 +76,7 @@ function App() {
                 }
               </button>
 							<p className='text-lg'>
-								{item.completed ? <del>{item.task}</del> : item.task}
+								{item.completed ? <del className="text-gray-600">{item.task}</del> : item.task}
 							</p>
 							<button className="ml-auto text-gray-500 hover:text-red-700 cursor-pointer" onClick={() => setList(list.filter((_, i) => i !== index))}>
                 <Trash2 size={18} className="mr-1 text-gray-400 hover:text-red-700" />
